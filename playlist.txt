@@ -15,4 +15,6 @@
 #animationsong
 디지몬        버터플라이
 포켓몬     우리는 모두 친구 
-
+#gamesong
+메이플스토리     다크니스
+요구르팅        always
